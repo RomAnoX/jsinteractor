@@ -1,7 +1,7 @@
 {
   "name": "jsinteractor",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "simple interactors and organizers for javascript world",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
